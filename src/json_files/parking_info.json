@@ -1,0 +1,12 @@
+{
+  "zero": {"coordinates": [37.617589, 55.755919]},
+  "povarskaya_31": {"coordinates": [37.586203, 55.756832], "street_name": "Поварская улица, дом 31, строение 1", "power": 22},
+  "gazetnyi_1": {"coordinates": [37.607391, 55.756862], "street_name": "Газетный переулок, дом 1", "power": 22},
+  "goncharnyi_20": {"coordinates": [37.647899, 55.744075], "street_name": "Гончарная улица, дом 20/1, строение 1", "power": 50},
+  "chayanova_7": {"coordinates": [37.592590, 55.774462], "street_name": "улица Чаянова, дом 7", "power": 22},
+  "bol_pereyaslavskaya_17": {"coordinates": [37.639671, 55.787827], "street_name": "улица Большая Переяславская, дом 17", "power": 50},
+  "avyamotornaya_4": {"coordinates": [37.714572, 55.759841], "street_name": "улица Авиамоторная, дом 4", "power": 22},
+  "michurinskyi_21": {"coordinates": [37.503343, 55.698295], "street_name": "Мичуринский проспект, дом 21, корпус 3", "power": 50},
+  "shosse_ent_53": {"coordinates": [37.825990, 55.773641], "street_name": "Шоссе Энтузиастов, дом 53", "power": 22},
+  "alt_shosse_84": {"coordinates": [37.588179, 55.896085], "street_name": "Алтуфьевское Шоссе, дом 84", "power": 22}
+}
