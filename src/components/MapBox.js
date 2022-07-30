@@ -25,8 +25,7 @@ export default function useMapbox() {
     const [street, setStreet] = useState()
     const [power, setPower] = useState()
 
-    // mapboxgl.accessToken = process.env.REACT_APP_API_KEY
-    mapboxgl.accessToken = 'pk.eyJ1Ijoic29sb2tob3ZpciIsImEiOiJjbDVjb3Z1ZXYwMnkxM2NtcGJsa2J0anU3In0.kqn_ZMvi8CkRSTYz5lWFSQ'
+    mapboxgl.accessToken = process.env.REACT_APP_API_KEY
 
     useLayoutEffect(() => {
         const map = new mapboxgl.Map({
