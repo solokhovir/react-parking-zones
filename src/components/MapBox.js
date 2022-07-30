@@ -1,5 +1,5 @@
 import React, {useLayoutEffect, useState} from "react"
-import mapboxgl from "mapbox-gl"
+import mapboxgl from '!mapbox-gl'; // eslint-disable-line import/no-webpack-loader-syntax
 import parking_info from '../json_files/parking_info.json'
 import styled from "styled-components"
 
